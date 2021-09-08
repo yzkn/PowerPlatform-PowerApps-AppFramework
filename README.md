@@ -1,2 +1,3 @@
-# PowerPlatform-PowerApps-AppFramework
- Power Appsキャンバスアプリのフレームワーク
+# Yakata
+
+Power Apps キャンバスアプリのフレームワーク
