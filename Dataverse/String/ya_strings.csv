@@ -1,0 +1,10 @@
+ya_key,ya_language,ya_stringid,utcconversiontimezonecode,ya_value,importsequencenumber,statuscode,timezoneruleversionnumber,versionnumber,statecode,owningbusinessunit
+MainMenuLog,,,,Log,,,,,,
+MainMenuLog,ja,,,ログ,,,,,,
+MainMenuAbout,ja,,,{}について,,,,,,
+MainMenuAbout,,,,About {},,,,,,
+MainMenuSetting,,,,Setting,,,,,,
+MainMenuSetting,ja,,,設定,,,,,,
+IsMaintenanceMode,ja,,,現在メンテナンス中です。,,,,,,
+NewVerwionExists,ja,,,新しいバージョンが公開されています。アプリを再起動してください。,,,,,,
+NewVerwionExists,,,,A newer version was published. Please restart this app.,,,,,,
